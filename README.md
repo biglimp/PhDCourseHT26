@@ -8,6 +8,8 @@ Department of Earth Sciences at University of Gothenburg gives a third cycle cou
 This is mostly an on-campus course. The course do not require that you have your own computer but it is recommened. The course is based on Windows. Other operating systems such as Linux and iOS is possible but not recommend. 
 
 # Schedule
-<img width="828" height="391" alt="image" src="https://github.com/user-attachments/assets/7de95492-c9da-43f2-937d-95ad2491fbb8" />
+<img width="746" height="421" alt="image" src="https://github.com/user-attachments/assets/35730e2f-3a34-48df-b221-1aa0fd9587e3" />
 
+FL - Fredrik Lindberg
+NW - Nils Wallenberg
 
