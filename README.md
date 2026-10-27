@@ -10,6 +10,5 @@ This is mostly an on-campus course. The course do not require that you have your
 # Schedule
 <img width="746" height="421" alt="image" src="https://github.com/user-attachments/assets/35730e2f-3a34-48df-b221-1aa0fd9587e3" />
 
-FL - Fredrik Lindberg
-NW - Nils Wallenberg
+FL - Fredrik Lindberg, NW - Nils Wallenberg
 
